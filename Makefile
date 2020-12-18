@@ -1,0 +1,1 @@
+gcloud container clusters update mykube --update-addons=HttpLoadBalancing=ENABLED --region us-central1-b
